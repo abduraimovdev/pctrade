@@ -1,3 +1,37 @@
 #main-logo {
-    
+    margin: 0;
+    width: 80%;
+    margin-left: 10%;
+    height: 400px;
+
+}
+
+#categories {
+    width: 100%;
+}
+#categories h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    margin: 100px 0px;
+}
+#category {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#categories button {
+    width: 48%;
+    margin-left: 1%;
+    background: none;
+    border: none;
+    outline: none;
+}
+#categories button:hover {
+    opacity: 0.5;
+}
+
+#categories button img {
+    height: 190px;
 }

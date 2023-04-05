@@ -1,5 +1,9 @@
 import 'dart:html';
 
-void main() {
+import 'tools/network.dart';
+import 'models/computer_model.dart';
+
+void main() async {
   querySelector('#output')?.text = 'Nima gap tinchmi';
+  
 }
